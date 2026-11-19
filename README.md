@@ -8,6 +8,12 @@ support cases, and more – all business information in a simple and intuitive i
 
 ![Screenshot](https://github.com/user-attachments/assets/d0806394-3691-43a1-83a5-16ad2e7314e2)
 
+### Workflow screenshot
+
+The following screenshot shows the dashboard, CRM records, and an API response.
+
+![EspoCRM dashboard, CRM records, and API response](cynaris-w5d1/screenshots/espocrm-crm-workflow.png)
+
 
 ### Architecture
 
